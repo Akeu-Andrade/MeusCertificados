@@ -1,4 +1,7 @@
 # MeusCertificados
+
+  Obs: Caso os certiifcados não carreguem voc^epode baixar um por um ou baixar todo o projeto em .zip
+
 ### 01 Artigos Científicos
 1.1 - [Exclusão Digital - Seminário internacional](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/01%20-%20Artigos)<br/>
 1.2 - [Um mapeamento sistematico da literatura - Semana Acadêmica](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/01%20-%20Artigos)<br/>
