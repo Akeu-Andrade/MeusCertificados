@@ -68,9 +68,9 @@
 
 ### 09 Outros
 9.1 - [Impactos da Indústria 4.0 na cadeiaprodutiva da construção](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
-9.1 - [Logística e T.I](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
-9.1 - [2ª Mostra de Produtos Técnico - Tecnológicos do Programa de Pós-Graduação em Mestrado Profissional do IFS](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
-9.1 - [Ciência em tempos de distanciamentosocial - Desafios do ensino, da pesquisa e da extensão](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
+9.2 - [Logística e T.I](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
+9.3 - [2ª Mostra de Produtos Técnico - Tecnológicos do Programa de Pós-Graduação em Mestrado Profissional do IFS](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
+9.4 - [Ciência em tempos de distanciamentosocial - Desafios do ensino, da pesquisa e da extensão](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/09%20-%20Outros)<br/>
 
 
 
