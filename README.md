@@ -1,6 +1,6 @@
 # MeusCertificados
 
-  Obs: Caso os certiifcados não carreguem você pode baixar um por um ou baixar todo o projeto em .zip
+  Obs: Caso os certiifcados não carreguem você pode [baixar](https://github.com/Akeu-Andrade/MeusCertificados/archive/refs/heads/main.zip).
 
 ### 01 Artigos Científicos
 1.1 - [Exclusão Digital - Seminário internacional](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/01%20-%20Artigos)<br/>
