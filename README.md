@@ -27,8 +27,8 @@
 4.4 - [Aprendizagem de Máquina](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/04%20-%20MineCursos)<br/>
 
 ### 05 Projetos
-5.1 - [Sistema de Recomendação de Recursus Educacionais da Metodologia para Docentes PIBITI 2018](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/05%20-%20Projetos)<br/>
-5.2 - [Manutenção do Hotsite da PROGEP e Suporte com Editais PBIEX 2019](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/05%20-%20Projetos)<br/>
+5.1 - [Sistema de Recomendação de Recursus Educacionais da Metodologia para Docentes - PIBITI 2018](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/05%20-%20Projetos)<br/>
+5.2 - [Manutenção do Hotsite da PROGEP e Suporte com Editais - PBIEX 2019](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/05%20-%20Projetos)<br/>
 
 ### 06 Organização de eventos
 6.1 - [Voluntário para SNCT 2020](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/06%20-%20Organiza%C3%A7%C3%A3o%20de%20eventos)<br/>
