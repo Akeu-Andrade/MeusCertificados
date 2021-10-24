@@ -32,6 +32,7 @@
 
 ### 06 Organização de eventos
 6.1 - [Voluntário para SNCT 2020](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/06%20-%20Organiza%C3%A7%C3%A3o%20de%20eventos)<br/>
+6.2 - [Voluntário para SEMAC III 2021](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/06%20-%20Organiza%C3%A7%C3%A3o%20de%20eventos)<br/>
 
 ### 07 Eventos
 7.1 - [XVIII Escola Regional de Computação Bahia 2018](https://github.com/Akeu-Andrade/MeusCertificados/tree/main/07%20-%20Eventos)<br/>
